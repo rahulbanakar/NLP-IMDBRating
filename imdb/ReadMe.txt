@@ -5,7 +5,7 @@ I have used Logesticregression, MultinomialNb and LinearSvc classifiers.
 
 Folders : 
 
-Data-> Contains a csv files with all the reviews and ratings for that respective review.
+Data-> Get the data from 'http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz'
 
 Source -> THis contains the python file with all the code with extracting all data and gathering in 1 data frame.
 
