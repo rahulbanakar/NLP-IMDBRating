@@ -11,3 +11,4 @@ Source -> THis contains the python file with all the code with extracting all da
 
 SVCModelResult94.23 ->The image contains the snap of the output graph after linerarsvc classifier. It has accuraccy as 94.23 
 
+One mode code is been updated with LSTM used.
